@@ -36,6 +36,14 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="asp.net" width="22" height="22"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fappium%2Fappium&psig=AOvVaw0asvMvxWEZf9HdX_9iryoG&ust=1608185639545000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjU9crs0e0CFQAAAAAdAAAAABAJ" alt="appium" width="22" height="22"/> 
+
 
 </p>
 
