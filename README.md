@@ -1,7 +1,7 @@
-### Hi there 👋
 
-<h1 align="center">Hi ð, I'm Saiful Islam</h1>
-<h3 align="center">A self-educated programmer who always try to learn new something and doing. ageð</h3>
+
+<h1 align="center">### Hi there 👋, I'm Saiful Islam</h1>
+<h3 align="center">A self-educated programmer who always try to learn new something and doing. </h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/saiful86?logo=GitHub&style=for-the-badge)
 
@@ -10,8 +10,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Food Overdering App , E-Commerce APP and Big Data Analysis.
-- 🌱 I’m currently learning Fluter, Big Data Analysis
+- 🔭 I’m currently working on *Food Overdering App , *E-Commerce APP and *Big Data Analysis.
+- 🌱 I’m currently learning *Fluter, *Big Data Analysis
 <!--
 - 👯 I’m looking to collaborate on  *other content creators.
 - 🤔 I’m looking for help with ...
