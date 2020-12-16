@@ -44,6 +44,20 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="22" height="22"/> 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fappium%2Fappium&psig=AOvVaw0asvMvxWEZf9HdX_9iryoG&ust=1608185639545000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjU9crs0e0CFQAAAAAdAAAAABAJ" alt="appium" width="22" height="22"/> 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react native" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
 
 </p>
 
