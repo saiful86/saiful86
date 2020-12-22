@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi there 👋, I'm Saiful Islam</h1>
-<h3 align="center">A self-educated programmer who always try to learn new something and doing. </h3>
+<h3 align="center">A self-educated programmer who always try to learn new something </h3>
 
 <br />
 
