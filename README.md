@@ -11,10 +11,15 @@
 <!--
 **saiful86/saiful86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+### A Mobile & Web Developer as well as Trainer
 
-- 🔭 I’m currently working on *Food Overdering App , *E-Commerce APP and *Big Data Analysis.
-- 🌱 I’m currently learning *Fluter, *Big Data Analysis
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+- 🔭 I’m currently working at home
+- 💻 The tech, I'm interested in Android, iOS, Flutter Mobile & Web, PHP & Laravel, Big Data Analysis, 
+- ✍ Trainer, I am loving to teach someone about tech.
+- ✨ I'm learning better things for Mobile App Development, Web scrapping, Big Data Analysis, Automations etc.
+- 
 <!--
 - 👯 I’m looking to collaborate on  *other content creators.
 - 🤔 I’m looking for help with ...
