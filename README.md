@@ -7,6 +7,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/saiful86?logo=GitHub&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/saifulnub?label=saifulnub&logo=twitter&style=for-the-badge)
+<a href="https://linkedin.com/in/saiful-islam-16572253/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 **saiful86/saiful86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
